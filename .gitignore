@@ -1,0 +1,7 @@
+.env
+.gitingore
+.venv
+__pychache__
+Claude
+.python-version
+
